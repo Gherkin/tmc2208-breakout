@@ -1,0 +1,23 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,2.2u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,155.75,-67.0,-90.0,top
+C2,22n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,152.0,-60.5,90.0,top
+C3,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,151.0,-63.5,180.0,top
+C4,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,163.0,-61.0,0.0,top
+C5,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,153.25,-55.0,90.0,top
+C6,100n,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,160.75,-55.0,90.0,top
+C7,100u,CP_Elec_5x5.4,157.0,-48.0,90.0,top
+FID1,Fiducial,Fiducial_0.5mm_Mask1.5mm,153.5,-41.0,0.0,top
+FID2,Fiducial,Fiducial_0.5mm_Mask1.5mm,165.0,-71.0,0.0,top
+J1,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,144.0,-43.925,0.0,top
+J2,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,144.0,-57.845,0.0,top
+J3,Conn_01x04,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,169.525,-58.25,-90.0,top
+J4,Conn_01x02,"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",167.305,-51.5,90.0,top
+R1,0,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,149.5,-60.5,90.0,top
+R2,R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,155.75,-55.0,90.0,top
+R3,R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,158.25,-55.0,-90.0,top
+R4,0,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,163.0,-63.5,0.0,top
+R5,R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,163.0,-58.5,180.0,top
+R6,0,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,160.5,-67.0,-90.0,top
+R7,0,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,158.25,-67.0,90.0,top
+R8,R,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,153.25,-67.0,-90.0,top
+U1,TMC2208-LA,TMC2208-LA,157.0,-61.0,0.0,top
