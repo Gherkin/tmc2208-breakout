@@ -1108,7 +1108,7 @@
     (property "Sheetname" "")
     (path "/235d5053-c886-4f83-a730-1569db5ce395")
     (attr through_hole exclude_from_pos_files)
-    (fp_text reference "J1" (at 0 -2.33) (layer "F.SilkS")
+    (fp_text reference "J1" (at 0 -2.33) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 41bf8635-648c-44e8-86a1-c2a5768d5de6)
     )
