@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "project")(type "KiCad")(uri "/home/niyohn/git/coaster-plotterv2/project.kicad_sym")(options "")(descr ""))
+  (lib (name "tmc2208-la")(type "KiCad")(uri "${KIPRJMOD}/tmc2208-LA/2022-06-26_09-03-23.kicad_sym")(options "")(descr ""))
+)
