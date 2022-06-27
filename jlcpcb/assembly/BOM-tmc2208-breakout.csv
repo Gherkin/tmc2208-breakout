@@ -1,5 +1,6 @@
 Comment,Designator,Footprint,LCSC
 0,"R1,R4,R6,R7,R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C100044
+100,"R10,R9",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C105588
 22n,C2,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C106222
 TMC2208-LA,U1,TMC2208-LA,C115944
 100u,C7,CP_Elec_6.3x5.4,C129250
@@ -10,3 +11,5 @@ Conn_01x04,J3,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,C144395
 33k,R5,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C25593
 Conn_01x11,J1,PinHeader_1x11_P2.54mm_Vertical,C429959
 Conn_01x02,J4,"TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",C8404
+GREEN,STEP1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,C84273
+RED,EN1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,C93133
